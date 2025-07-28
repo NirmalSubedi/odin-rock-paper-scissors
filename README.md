@@ -9,7 +9,7 @@ A classic game of rock paper scissors to play against the computer. (Written in 
 3. Make your choice in the text box for a total of 5 times.
 4. Your score is in the console. Refresh the page to play again!
 
-## What javascript skills were demonstrated?
+## What skills were demonstrated?
 - Making use of function declarations to hoist functions.
 - Manipulating strings to make the user input case-insensitive.
 - Utilizing conditional statements such as 'if' to decide the outcome of the rounds and game.
