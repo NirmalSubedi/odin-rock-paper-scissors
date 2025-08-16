@@ -5,9 +5,9 @@ A classic game of rock paper scissors to play against the computer. (Written in 
 
 ## How to Play?
 1. Open the link above in a new tab.
-2. Open up the console panel in devtools on your browser.
-3. Make your choice in the text box for a total of 5 times.
-4. Your score is in the console. Refresh the page to play again!
+2. Select one of the buttons(Rock/Paper/Scissors).
+3. View the round result and score at the bottom of the buttons.
+4. After five rounds, winner is decided! 
 
 ## What skills were demonstrated?
 - Making use of function declarations to hoist functions.
