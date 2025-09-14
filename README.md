@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-A classic game of rock paper scissors to play against the computer. (Written in JavaScript)
+A classic game of rock paper scissors to play against the computer.
 
 [Play Now!](https://nirmalsubedi.github.io/odin-rock-paper-scissors/)
 
